@@ -1,1 +1,1 @@
-D:\OOP 244\ms2\MS2\x64\Debug\MS2.exe
+D:\oop244\MS2\MS2\x64\Debug\MS2.exe
